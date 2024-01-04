@@ -5,7 +5,7 @@
 
 ## How to use this repository?
 
-![Alt text](image-1.png)
+![Alt text](/img/image-1.png)
 - Add file을 클릭하고 create new file을 클릭한다. 
 
 ![Alt text](image-2.png)
