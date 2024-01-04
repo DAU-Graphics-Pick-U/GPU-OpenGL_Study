@@ -1,21 +1,34 @@
 # GPU-Main
 
-## Graphics Pick U 
+## Graphics Pick U
 동아대학교 컴퓨터그래픽스 학회 GPU의 OpenGL_Study Repository입니다. 
 
 ## How to use this repository?
 
-![Alt text](/img/image-1.png)
-- Add file을 클릭하고 create new file을 클릭한다. 
+<div align="center">
+  <img src="/img/image-1.png" alt="Alt text">
+</div>
 
-![Alt text](/img/image-2.png)
-- testname/testname.txt를 입력한다. (여기서 testname에는 본인의 이름을 입력)
+- Click Add file and click create new file.
 
-![Alt text](/img/image-3.png)
-- commit changes를 클릭한다. 
+<div align="center">
+  <img src="/img/image-2.png" alt="Alt text">
+</div>
 
-![Alt text](/img/image-4.png)
-- commit chages를 클릭한다.
+- Enter testname/testname.txt. (Here, enter your name in testname)
 
-![Alt text](/img/image-5.png)
-- 폴더 생성이 완료되었다. 
+<div align="center">
+  <img src="/img/image-3.png" alt="Alt text">
+</div>
+
+- Click commit changes.
+
+<div align="center">
+  <img src="/img/image-4.png" alt="Alt text">
+</div>
+
+- Click commit changes.
+
+<div align="center">
+  <img src="/img/image-5.png" alt="Alt text">
+</div>
